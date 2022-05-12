@@ -3,7 +3,7 @@
 #define SMALL_PASS "The number of passengers cannot be less than 0"
 #define MAX_PASS "The number of passengers cannot be more than 20 people in one car"
 #define ZERO_PASS "In the wagon there are no passengers"
-#define COUNT_CARRIAGE 4
+#define COUNT_CARRIAGE 10
 
 #define LOOP for (int i = 0; i < COUNT_CARRIAGE; ++i)
 
